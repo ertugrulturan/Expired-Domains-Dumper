@@ -1,8 +1,8 @@
 <html>
-<title>expired_domains_bot</title><br><br>
+<title>expired_domains_bot -> https://obir.ninja</title><br><br>
 <body>
 <center>
-<img title="V4T1 PROJECT" src="https://cdn.r10.net/editor/115364/2119976671.png"></br>
+<img title="NinjaNetwork PROJECT" src="https://cdn.r10.net/editor/115364/2119976671.png"></br>
 <form action="expired_domains.php" method="get">
 Uzantı: <select name="uzanti">
   <option value="combinedexpired">Karışık</option>
