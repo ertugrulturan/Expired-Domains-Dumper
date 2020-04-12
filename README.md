@@ -1,2 +1,6 @@
 # Expired-Domains-Dumper
-[PHP] Expired Domains Dumper Bot
+
+"// Edit (add your expireddomains.net account cookie)" edit between and run lochalhost or hosting scirpt "index.php".
+---
+Video; https://youtu.be/Jqtl1yf8qSI
+---
